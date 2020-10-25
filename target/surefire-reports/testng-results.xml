@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-18T08:04:43Z" name="Suite" finished-at="2020-10-18T08:08:04Z" duration-ms="201571">
+    <groups>
+    </groups>
+    <test started-at="2020-10-18T08:04:43Z" name="CRM Test Cases" finished-at="2020-10-18T08:08:04Z" duration-ms="201571">
+      <class name="com.CRM.qa.testcases.Homepagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:04:58Z" name="setup" finished-at="2020-10-18T08:05:16Z" duration-ms="18233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyhomepagetitletest()[pri:1, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:05:16Z" name="verifyhomepagetitletest" finished-at="2020-10-18T08:05:16Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepagetitletest -->
+        <test-method is-config="true" signature="teardows()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:05:16Z" name="teardows" finished-at="2020-10-18T08:05:17Z" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardows -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:05:54Z" name="setup" finished-at="2020-10-18T08:06:11Z" duration-ms="17539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyusernametest()[pri:2, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:06:11Z" name="verifyusernametest" finished-at="2020-10-18T08:06:11Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusernametest -->
+        <test-method is-config="true" signature="teardows()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:06:11Z" name="teardows" finished-at="2020-10-18T08:06:12Z" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardows -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:06:57Z" name="setup" finished-at="2020-10-18T08:07:17Z" duration-ms="20471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifycontactslinktest()[pri:3, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:07:17Z" name="verifycontactslinktest" finished-at="2020-10-18T08:07:20Z" duration-ms="3275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontactslinktest -->
+        <test-method is-config="true" signature="teardows()[pri:0, instance:com.CRM.qa.testcases.Homepagetest@2362f559]" started-at="2020-10-18T08:07:20Z" name="teardows" finished-at="2020-10-18T08:07:22Z" duration-ms="1521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardows -->
+      </class> <!-- com.CRM.qa.testcases.Homepagetest -->
+      <class name="com.CRM.qa.testcases.Contactspagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:05:17Z" name="setup" finished-at="2020-10-18T08:05:39Z" duration-ms="21822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifycontactslabeltest()[pri:1, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:05:39Z" name="verifycontactslabeltest" finished-at="2020-10-18T08:05:39Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontactslabeltest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:05:39Z" name="teardown" finished-at="2020-10-18T08:05:40Z" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:06:12Z" name="setup" finished-at="2020-10-18T08:06:33Z" duration-ms="20170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectsinglecontactstest()[pri:2, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:06:33Z" name="selectsinglecontactstest" finished-at="2020-10-18T08:06:36Z" duration-ms="3145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectsinglecontactstest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:06:36Z" name="teardown" finished-at="2020-10-18T08:06:37Z" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:07:22Z" name="setup" finished-at="2020-10-18T08:07:46Z" duration-ms="23622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectmultiplecontactstest()[pri:3, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:07:46Z" name="selectmultiplecontactstest" finished-at="2020-10-18T08:08:02Z" duration-ms="16809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectmultiplecontactstest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:08:02Z" name="teardown" finished-at="2020-10-18T08:08:03Z" duration-ms="927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="validatecreatenewcontact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.CRM.qa.testcases.Contactspagetest@b2c9a9c]" started-at="2020-10-18T08:08:04Z" name="validatecreatenewcontact" data-provider="testdata" finished-at="2020-10-18T08:08:04Z" duration-ms="0" status="SKIP">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[java.lang.NullPointerException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: java.lang.NullPointerException
+at org.testng.internal.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:49)
+at org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:131)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:706)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.NullPointerException
+at com.CRM.qa.utils.testutils.gettestdata(testutils.java:52)
+at com.CRM.qa.testcases.Contactspagetest.testdata(Contactspagetest.java:62)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:74)
+at org.testng.internal.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:45)
+... 26 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecreatenewcontact -->
+      </class> <!-- com.CRM.qa.testcases.Contactspagetest -->
+      <class name="com.CRM.qa.testcases.LoginClasstest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:04:43Z" name="setup" finished-at="2020-10-18T08:04:57Z" duration-ms="14526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagetitle()[pri:1, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:04:57Z" name="loginpagetitle" finished-at="2020-10-18T08:04:57Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:04:57Z" name="teardown" finished-at="2020-10-18T08:04:58Z" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:05:40Z" name="setup" finished-at="2020-10-18T08:05:52Z" duration-ms="11725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CRMlogotest()[pri:2, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:05:52Z" name="CRMlogotest" finished-at="2020-10-18T08:05:52Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMlogotest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:05:52Z" name="teardown" finished-at="2020-10-18T08:05:54Z" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:06:37Z" name="setup" finished-at="2020-10-18T08:06:47Z" duration-ms="10632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:3, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:06:47Z" name="logintest" finished-at="2020-10-18T08:06:56Z" duration-ms="8363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.CRM.qa.testcases.LoginClasstest@8297b3a]" started-at="2020-10-18T08:06:56Z" name="teardown" finished-at="2020-10-18T08:06:57Z" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.qa.testcases.LoginClasstest -->
+    </test> <!-- CRM Test Cases -->
+  </suite> <!-- Suite -->
+</testng-results>

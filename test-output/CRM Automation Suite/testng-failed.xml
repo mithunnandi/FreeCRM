@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CRM Automation Suite]" guice-stage="DEVELOPMENT" verbose="3">
+  <test thread-count="5" name="CRM Test Cases(failed)" verbose="3">
+    <classes>
+      <class name="com.CRM.qa.testcases.Homepagetest">
+        <methods>
+          <include name="verifycointactslinktest"/>
+          <include name="setup"/>
+          <include name="teardows"/>
+        </methods>
+      </class> <!-- com.CRM.qa.testcases.Homepagetest -->
+    </classes>
+  </test> <!-- CRM Test Cases(failed) -->
+</suite> <!-- Failed suite [CRM Automation Suite] -->
